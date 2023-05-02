@@ -1,13 +1,14 @@
 # 2023_04_mental-health-schools-published-data
 
-About files:
+This directory includes:
 
-**`schools-new.csv`** includes all datapoints displayed in our app. 
+- **`schools-new.csv`** includes all datapoints displayed in our app.
 
-**`cic-matched-dbns.csv`** includes school campus names in the NYPD SSA data that we could match with unique school identifiers called DBNs
+- **`cic-matched-dbns.csv`** includes school campus names in the NYPD SSA data that we could match with unique school identifiers called DBNs
 
-**`cic-unmatched-dbns.csv`** includes school campus names in the NYPD SSA data for which we could not pinpoint a given school
+- **`cic-unmatched-dbns.csv`** includes school campus names in the NYPD SSA data for which we could not pinpoint a given school
 
+# Definitions:
 
 ## School Information
 - **`Data Source`**: https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6

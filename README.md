@@ -1,11 +1,11 @@
-## Here is the data we used for <a href="https://projects.thecity.nyc/2023_04_mental-health-in-schools/main/">How Well Does Your Child's School Support Student Mental Health?</a> project. 
+Here is the data we used for our interactive database "<a tk>How Well Does Your Child's School Support Student Mental Health?</a>". 
 
-### Read <a href="">our blog post</a> that explains how we matched thousands of NYPD child in crisis calls with the Department of Education data.
+You can read a blog post that explains <a tk>how we matched thousands of NYPD child in crisis calls</a> with the Department of Education data. You can also read our story on this subject, <a tk>headline tk</a>.
 
 ## Files in the Directory
 - **`schools-new.csv`** includes all datapoints displayed in our app.
-- **`cic-matched-dbns.csv`** includes school campus names in the NYPD data that we could match with unique school identifiers called DBNs
-- **`cic-unmatched-dbns.csv`** includes school campus names for which we could not pinpoint a given school
+- **`cic-matched-dbns.csv`** includes school campus names in the NYPD data that we could match with unique school identifiers called DBNs.
+- **`cic-unmatched-dbns.csv`** includes school campus names for which we could not pinpoint a given school.
 
 ## Definitions:
 ## School Information
@@ -19,26 +19,25 @@
 
 ## 2021-22 School enrollment and demographics
 - **`Data Source`**: https://data.cityofnewyork.us/Education/2017-18-2021-22-Demographic-Snapshot/c7ru-d68s
-- **`enroll`**: Total enrollment in all grades.  
-- **`asian`**: Total number of Asian students.
-- **`black`**:  Total number of Black students.
-- **`hispanic`**: Total number of Hispanic students. 
-- **`multi`**:  Total number of Multiracial students.
-- **`native_a`**: Total number of Native American students.
-- **`white`**: Total number of white students.
-- **`iep`**: Total number of students with disabilities (IEPs).
-- **`poverty_no`**:Total number of students below the poverty threshold.
-- **`eni`**: Economic Need Index in 2021-22 as calculated by the Department of Education.
+- **`enroll`**: Total enrollment in all grades  
+- **`asian`**: Total number of Asian students
+- **`black`**:  Total number of Black students
+- **`hispanic`**: Total number of Hispanic students 
+- **`multi`**:  Total number of Multiracial students
+- **`native_a`**: Total number of Native American students
+- **`white`**: Total number of white students
+- **`iep`**: Total number of students with IEPs
+- **`poverty_no`**: Total number of students below the poverty threshold
+- **`eni`**: Economic Need Index in 2021-22 as calculated by the Department of Education
 
 ## 2021-22 Guidance Counselor
 - **`Data Source`**:  https://infohub.nyced.org/reports/government-reports/guidance-counselor-reporting 
-- **`total_gc_sw`**: Total number of guidance counselors and social workers, including part-time workers. 
-- **`gc`**:Total number of guidance counselors, including part-time counselors. 
-- **`sw`**: Total number of social workers, including part-time workers.
+- **`total_gc_sw`**: Total number of guidance counselors and social workers, including part-time workers 
+- **`gc`**:Total number of guidance counselors, including part-time counselors 
+- **`sw`**: Total number of social workers, including part-time workers
 - **`provider`**: Name of the school-based mental health clinic. THE CITY obtained this data from the Department of Education. The information can also be found on the DOE's <a href='https://www.schools.nyc.gov/schools/K001'>website</a>.
-- **`school_psychologist_providing`**: Whether school psychologists are providing mandated counseling? This column is binary coded; 0 =no and 1=yes.
-- **`lead_cbo_partner`**:The name of school's community-based organization partner for mental health support. THE CITY and Chalkbeat obtained the 2022-23 list exclusively from the DOE. The schools with cs_director as a cbo partner have community school directors who are directly employed by the DOE. The schools with no_cbo means that the school is a community school but has no CBO yet. Previous reports can be found at this <a href='https://data.cityofnewyork.us/Education/2021-2022-Community-Schools-List/su38-ur5m/data'>here</a>.
-
+- **`school_psychologist_providing`**: Whether school psychologists are providing mandated counseling. This column is binary coded; 0 =no and 1=yes.
+- **`lead_cbo_partner`**:The name of school's community-based organization partner for mental health support. THE CITY and Chalkbeat obtained the 2022-23 list exclusively from the DOE. `N/A` values listed have community school directors who are directly employed by the DOE rather than a CBO. `no_cbo` means that the school is a community school but as of publication hasn't named a CBO yet. Previous reports can be found at this <a href='https://data.cityofnewyork.us/Education/2021-2022-Community-Schools-List/su38-ur5m/data'>Data Source</a>
 
 ## Temporary housing, 2021-22 school year
 - **`Data Source`**: https://infohub.nyced.org/reports/government-reports/students-in-temporary-housing-reports
@@ -47,7 +46,7 @@
 # School Surveys
 - **`Data Source`**: 
 - **`s_rr`**: student response rate
-- **`s_know_mh_re_ag`**: Students know about the mental health resources
+- **`s_know_mh_re_ag`**: Students know about the mental health resources.
 
 ## Chronic Absenteeism, 2021-22 school year
 - **`Data Source`**: https://infohub.nyced.org/reports/school-quality/information-and-data-overview/end-of-year-attendance-and-chronic-absenteeism-data
@@ -58,6 +57,4 @@ Definitions from the NYPD <a href='nyc.gov/assets/nypd/downloads/pdf/school_safe
 - **`Data Source`**: https://www.nyc.gov/site/nypd/stats/reports-analysis/school-safety.page
 - **`cic`**:  "A student who is displaying signs of emotional distress who must be removed to the hospital for psychological evaluation. Only subjects for which mechanical restraints were used are reported here."
 
-
-
-If you spot problems with the data, you can send us a pull request or issue here, or email us at data@thecity.nyc.
+If you spot problems with the data, you can send us a pull request or issue here, or email us at [data@thecity.nyc](mailto:data@thecity.nyc).

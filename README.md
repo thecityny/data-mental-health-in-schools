@@ -37,7 +37,7 @@
 - **`sw`**: Total number of social workers, including part-time workers.
 - **`provider`**: Name of the school-based mental health clinic. THE CITY obtained this data from the Department of Education. The information can also be found on the DOE's <a href='https://www.schools.nyc.gov/schools/K001'>website</a>.
 - **`school_psychologist_providing`**: Whether school psychologists are providing mandated counseling? This column is binary coded; 0 =no and 1=yes.
-- **`lead_cbo_partner`**:The name of school's community-based organization partner for mental health support. THE CITY and Chalkbeat obtained the 2022-23 list exclusively from the DOE. N/A values listed have community school directors who are directly employed by the DOE rather than a CBO. no_cbo means that the school is a community school but as of publication doesn't have a CBO yet. Previous reports can be found at this <a href='https://data.cityofnewyork.us/Education/2021-2022-Community-Schools-List/su38-ur5m/data'>Data Source.</a>
+- **`lead_cbo_partner`**:The name of school's community-based organization partner for mental health support. THE CITY and Chalkbeat obtained the 2022-23 list exclusively from the DOE. The schools with cs_director as a cbo partner have community school directors who are directly employed by the DOE. The schools with no_cbo means that the school is a community school but has no CBO yet. Previous reports can be found at this <a href='https://data.cityofnewyork.us/Education/2021-2022-Community-Schools-List/su38-ur5m/data'>here</a>.
 
 
 ## Temporary housing, 2021-22 school year

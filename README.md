@@ -56,3 +56,8 @@ About files:
 Definitions from the NYPD <a href='nyc.gov/assets/nypd/downloads/pdf/school_safety/student-safety-act-report-definitions.pdf'>here</a>
 - **`Data Source`**: https://www.nyc.gov/site/nypd/stats/reports-analysis/school-safety.page
 - **`cic`**:  "A student who is displaying signs of emotional distress who must be removed to the hospital for psychological evaluation. Only subjects for which mechanical restraints were used are reported here."
+
+
+
+If you spot an error, please let us know at data@thecity.nyc. Or raise an issue here. 
+

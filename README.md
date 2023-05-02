@@ -4,15 +4,14 @@
 
 
 
-This directory includes:
-
+## Files in the Directory
 - **`schools-new.csv`** includes all datapoints displayed in our app.
 
 - **`cic-matched-dbns.csv`** includes school campus names in the NYPD SSA data that we could match with unique school identifiers called DBNs
 
 - **`cic-unmatched-dbns.csv`** includes school campus names in the NYPD SSA data for which we could not pinpoint a given school
 
-# Definitions:
+## Definitions:
 
 ## School Information
 - **`Data Source`**: https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6

@@ -1,6 +1,6 @@
-# Here is the data we used for <a href="https://projects.thecity.nyc/2023_04_mental-health-in-schools/main/">How Well Does Your Child's School Support Student Mental Health?</a> project. 
+## Here is the data we used for <a href="https://projects.thecity.nyc/2023_04_mental-health-in-schools/main/">How Well Does Your Child's School Support Student Mental Health?</a> project. 
 
-# Read our blog post that explain how we matched thousands of NYPD child in crisis calls with the Department of Education data.
+### Read <a href="">our blog post</a> that explains how we matched thousands of NYPD child in crisis calls with the Department of Education data.
 
 
 

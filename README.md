@@ -3,7 +3,9 @@
 About files:
 
 **`schools-new.csv`** includes all datapoints displayed in our app. 
+
 **`cic-matched-dbns.csv`** includes school campus names in the NYPD SSA data that we could match with unique school identifiers called DBNs
+
 **`cic-unmatched-dbns.csv`** includes school campus names in the NYPD SSA data for which we could not pinpoint a given school
 
 

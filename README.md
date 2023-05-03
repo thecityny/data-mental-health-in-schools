@@ -1,6 +1,6 @@
 Here is the data we used for our interactive database <a href="https://projects.thecity.nyc/school-mental-health/">How Well Does Your Child's School Support Student Mental Health?</a>. 
 
-You can read our blog post that explains <a href="https://thecity.admin.usechorus.com/e/23474191">how we matched thousands of NYPD child in crisis calls</a> with the Department of Education data. You can also read our story on this subject, <a tk>headline tk</a>.
+You can read our blog post that explains <a href="https://thecity.admin.usechorus.com/e/23474191">how we matched thousands of NYPD child in crisis calls</a> with the Department of Education data. You can also read our story on this subject <a href="https://thecity.admin.usechorus.com/e/23474364">NYC Schools Handcuff and Haul Away Kids in Emotional Crisis</a>.
 
 ## Files in the Directory
 - **`schools-new.csv`** includes all datapoints displayed in our app.

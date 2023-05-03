@@ -1,4 +1,4 @@
-Here is the data we used for our interactive database "<a href="https://projects.thecity.nyc/school-mental-health/">How Well Does Your Child's School Support Student Mental Health?</a>". 
+Here is the data we used for our interactive database <a href="https://projects.thecity.nyc/school-mental-health/">How Well Does Your Child's School Support Student Mental Health?</a>. 
 
 You can read a blog post that explains <a tk>how we matched thousands of NYPD child in crisis calls</a> with the Department of Education data. You can also read our story on this subject, <a tk>headline tk</a>.
 
